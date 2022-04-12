@@ -1,8 +1,8 @@
-const GOOGLE_CLIENT_ID = "105703156926-jlpk731kpemflppe1e5n1t8kjdasgq2r.apps.googleusercontent.com";
-const GOOGLE_CLIENT_SECRET = "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";
+const GOOGLE_CLIENT_ID = ID;
+const GOOGLE_CLIENT_SECRET = KEY;
 
-const GITHUB_CLIENT_ID = "Iv1.e4ef3a0e0865e1ef";
-const GITHUB_CLIENT_SECRET = "f2c45e33d178c2e122bd4f8289f9d5662d749a1c";
+const GITHUB_CLIENT_ID = ID;
+const GITHUB_CLIENT_SECRET = KEY;
 
 
 var GoogleStrategy = require('passport-google-oauth20').Strategy;
